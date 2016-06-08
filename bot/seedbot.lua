@@ -283,7 +283,7 @@ function create_config( )
     "help_plug",
     "v-card"
     },
-    sudo_users = {226726601},--Sudo users
+    sudo_users = {231302652},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Asimo-Bot V1
